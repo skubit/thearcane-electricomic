@@ -1,0 +1,63 @@
+{
+  "title": "Electricomics Comic",
+  "version": 1,
+  "summary": "Electricomics initial comic",
+  "date": "2015-09-14",
+  "dateString": "14/9/2015",
+  "orientation": "landscape",
+  "creators": [
+    {
+      "name": "",
+      "role": ""
+    }
+  ],
+  "screenW": "3000",
+  "screenH": "1800",
+  "pxRatio": 1,
+  "pages": [
+    null,
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_eixpdkpiu",
+          "src": "images/1.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "3069",
+          "h": "1344",
+          "naturalW": 3069,
+          "naturalH": 1344,
+          "pageN": 1,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_xqksnb5n7",
+          "src": "images/1a.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "5203",
+          "h": "1778",
+          "naturalW": 5203,
+          "naturalH": 1778,
+          "pageN": 2,
+          "panelN": 1
+        }
+      ]
+    }
+  ],
+  "save": false
+}
